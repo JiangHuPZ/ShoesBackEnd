@@ -1,0 +1,8 @@
+django
+django-rename-app
+django-imagekit
+django-oss-storage
+django-cleanup
+mysqlclient
+pillow
+django-bootstrap4
