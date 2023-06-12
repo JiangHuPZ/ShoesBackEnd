@@ -1,7 +1,7 @@
 # ShoesBackEnd
 修改settings.py中的sql配置  
 在项目的根目录下，运行数据库迁移命令以创建用户表：  
-`python manage.py makemigrations`
+`python manage.py makemigrations`  
 `python manage.py migrate`  
 最后，在项目的根目录下，运行开发服务器：  
 `python manage.py runserver`
